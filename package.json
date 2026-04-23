@@ -106,7 +106,7 @@
     "tailwind-merge": "^2.1.0",
     "turndown": "^7.1.2",
     "unified": "^10.1.2",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "webextension-polyfill": "^0.10.0",
     "websocket-as-promised": "^2.0.1"
   },
